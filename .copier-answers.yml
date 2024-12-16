@@ -1,0 +1,18 @@
+# Changes here will be overwritten by Copier; NEVER EDIT MANUALLY
+_commit: v4.3.6
+_src_path: https://github.com/jupyterlab/extension-template
+author_email: tony.hirst@gmail.com
+author_name: Tony Hirst
+data_format: string
+file_extension: tex
+has_binder: false
+kind: mimerenderer
+labextension_name: jupyterlab-latexjs
+mimetype: text/latex
+mimetype_name: tex
+project_short_description: A mimerender for .tex files using latex.js
+python_name: jupyterlab_latexjs
+repository: https://github.com/innovationOUtside/jupyterlab-latexjs
+test: false
+viewer_name: JupyterLab Latex.js
+
